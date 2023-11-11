@@ -3,11 +3,11 @@
 Gem::Specification.new do |spec|
   spec.name          = "phantom"
   spec.version       = "0.1.1"
-  spec.authors       = ["Jami Gibbs"]
-  spec.email         = ["jami0821@gmail.com"]
+  spec.authors       = ["balaganesh"]
+  spec.email         = ["balaganesh10.2004@gmail.com"]
 
   spec.summary       = "Phantom Jekyll Theme"
-  spec.homepage      = "https://github.com/jamigibbs/phantom"
+  spec.homepage      = "https://github.com/balaganesh102004"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README)!i) }
